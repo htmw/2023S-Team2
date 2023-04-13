@@ -1,1 +1,1 @@
-# social-media-mobile-app
+# Depression-Dectection-mobile-app
