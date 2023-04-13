@@ -1,1 +1,0 @@
-# Depression-Dectection-mobile-app
